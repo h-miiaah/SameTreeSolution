@@ -28,5 +28,6 @@
 - If one of p and q is null, then return false.
 - If the values of p and q are not the same, then return false.
 - Recursively check if p’s left child is the same as q’s left child.
+- Recursively check if p’s right child is the same as q’s right child.
 
 */
