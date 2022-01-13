@@ -14,4 +14,6 @@
  var isSameTree = function(p, q) {
     if(p === null)
         return q === null;
+
+    if(q === null || p.val !== q.val)
 };
