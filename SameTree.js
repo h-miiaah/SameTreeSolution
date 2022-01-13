@@ -17,4 +17,6 @@
 
     if(q === null || p.val !== q.val)
     return false;
+
+    return
 };
