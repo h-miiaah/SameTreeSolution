@@ -20,3 +20,10 @@
 
     return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
 };
+
+
+/*
+
+- If p and q are both null, then return true.
+
+*/
