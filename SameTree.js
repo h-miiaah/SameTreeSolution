@@ -25,5 +25,6 @@
 /*
 
 - If p and q are both null, then return true.
+- If one of p and q is null, then return false.
 
 */
